@@ -1,4 +1,5 @@
 # BingCurrencyConverter
+## [Deprecated] Currency converter using the Bing Currency API
 Simple currency converter using Bing Currency API (JSON) <br> <br>
 
 > [Please note] <br>
