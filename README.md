@@ -13,7 +13,7 @@ This project is no longer being maintained, and its not working anymore due to t
 <img alt="GitHub Top Languages" src="https://img.shields.io/github/languages/top/HappyBono/BingCurrencyConverter">
 </div>
 
-<br><br>
+<br>
 
 ![Final Product](CurrencyConverter.png)
 
